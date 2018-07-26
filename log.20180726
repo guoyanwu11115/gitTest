@@ -1,2 +1,13 @@
 #1.克隆githut库到本地
 git clone HTTPS
+#2.
+#添加add 
+#提交commit 
+#上传push
+#查看工作区状态 status
+git add
+git commit
+git push
+git status
+#3.将githut最新代码更新到本地 
+git pull
